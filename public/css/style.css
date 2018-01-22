@@ -1,27 +1,27 @@
 @import url('https://fonts.googleapis.com/css?family=Cinzel|Julius+Sans+One');
 
 @media(max-width: 768px) {
-	h1 {
-		font-size: 200%;
-	}
+  h1 {
+    font-size: 200%;
+  }
 }
 
 @media(min-width: 768px) {
-	h1 {
-		font-size: 300%;
-	}
+  h1 {
+    font-size: 300%;
+  }
 }
 
 @media(min-width: 992px) {
-	h1 {
-		font-size: 350%;
-	}
+  h1 {
+    font-size: 350%;
+  }
 }
 
 @media(min-width: 1200px) {
-	h1 {
-		font-size: 450%;
-	}
+  h1 {
+    font-size: 450%;
+  }
 }
 
 #cip {
